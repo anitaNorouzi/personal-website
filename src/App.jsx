@@ -10,6 +10,12 @@ function App() {
       <h1 className="text-2xl">Welcome to my sersonal website</h1>
       <h1 className="text-2xl">Im anita Norouzi</h1>
 
+      <ul>
+        <li>My Academic life</li>
+        <li>My Carear</li>
+        <li>MY hobbies</li>
+      </ul>
+
     </div>
     </>
   )
