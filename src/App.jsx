@@ -17,6 +17,30 @@ function App() {
         <li>My hobbies</li>
       </ul>
 
+=======
+
+      <h2>Im 23 y.o</h2>
+
+      <ul>
+
+        <li>About me</li>
+        <li>Games</li>
+        <li>Studying</li>
+
+      </ul>
+>>>>>>> threeChanges
+=======
+
+      <h2>Im 23 y.o</h2>
+
+      <ul>
+
+        <li>About me</li>
+        <li>Games</li>
+        <li>Studying</li>
+
+      </ul>
+>>>>>>> threeChanges
     </div>
     </>
   )
